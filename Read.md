@@ -1,3 +1,0 @@
-### Projeto módulo 05 - MACHINE LEARNING
-
-##### ESTUDO SOBRE AMOSTRAS DE 
